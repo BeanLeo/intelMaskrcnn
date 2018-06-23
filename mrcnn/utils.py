@@ -9,6 +9,8 @@ Written by Waleed Abdulla
 
 import sys
 import os
+
+sys.path.append(r'/usr/lib/python3.5')
 import math
 import random
 import numpy as np
